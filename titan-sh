@@ -87,4 +87,4 @@ do
         titan-edge bind --hash=$id https://api-test1.container1.titannet.io/api/v2/device/binding"
 done
 
-echo "==============================Semua node sudah diatur dan dimulai===================================."
+echo "==============================All nodes have been configured and started===================================."
